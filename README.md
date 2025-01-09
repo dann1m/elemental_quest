@@ -51,8 +51,11 @@ cd elemental_quest
 Once downloaded, extract the zip file to a location on your computer.
 
 ### 3. Run the WebGL Game:
-Navigate to the extracted folder in command line.
-Run `python3 -m http.server` to open the index.html file using any web browser (e.g., Chrome, Firefox, Safari).
+- Navigate to the extracted folder in command line.
+- Run `python3 -m http.server` to open the index.html file using any web browser (e.g., Chrome, Firefox, Safari).
+- This will start a local server on port 8000. You can access it by navigating to:
+`http://localhost:8000/index.html`
+
 
 ### 4. Gameplay:
 Follow the on-screen instructions to play the game.
