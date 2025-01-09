@@ -61,3 +61,14 @@ Use arrow keys, shift key and space bar to move, and interact with doors or othe
 ### 5. AWS Integration (if needed):
 View deployment of the frontend from AWS Amplify.
 
+---
+
+### Credits
+
+- Developed by: Danielle Imogu
+- AWS Integration: Danielle Imogu
+- Art/Assets: Contributions from itch.io
+
+### License
+MIT License
+
